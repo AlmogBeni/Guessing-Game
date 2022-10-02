@@ -1,0 +1,7 @@
+random
+time
+tkinter
+colorama
+re
+tkinter
+keyboard
